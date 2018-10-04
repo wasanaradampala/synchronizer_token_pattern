@@ -1,7 +1,7 @@
 # synchronizer_token_pattern
 
 
-A sample implementation of preventing CSRF attack using Double submit token pattern in PHP
+A sample implementation of preventing CSRF attack using Synchronizer token pattern in PHP
 
 GET STARTED
 
